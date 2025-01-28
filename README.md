@@ -16,7 +16,7 @@ Description of folder contents are as follows:
 + 01 Project Management: Contains the project brief and related documentation.
 + 02 Scripts: Python code for the analysis, executed using Jupyter notebooks.
 + 03 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
-+ 04 Sent to Client: Final Excel presentation.
++ 04 Sent to Client: Final Excel.
 ## Code Overview
 Code was written in Python and executed in Jupyter notebooks.
 + Pandas: For data manipulation and analysis
