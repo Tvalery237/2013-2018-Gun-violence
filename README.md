@@ -26,4 +26,4 @@ Code was written in Python and executed in Jupyter notebooks.
 + Matplotlib.ticker.FuncFormatter: For custom formatting of axis ticks in plots
 + Seaborn: For statistical data visualization and creating informative, attractive graphics
 + Scipy: For scientific and technical computing, including advanced mathematical functions
-[Tableau](https://public.tableau.com/app/profile/valery.jong/viz/Book3_17380233590450/Story1?publish=yes)  
++ [Tableau](https://public.tableau.com/app/profile/valery.jong/viz/Book3_17380233590450/Story1?publish=yes)  
